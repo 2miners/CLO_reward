@@ -8,4 +8,4 @@ Info: https://github.com/EthereumCommonwealth/Roadmap/issues/42#issuecomment-381
 
 # When I'll get my compensation?
 
-_All payouts will be proceeded after block 52510._ 
+_All payouts were successfully executed on the 20th of April._ 
